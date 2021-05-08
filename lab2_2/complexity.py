@@ -1,4 +1,4 @@
-from fft import fastFourierTransformRecursion
+from fft import fastFourierTransform
 import time
 import sys
 sys.path.append('../')
